@@ -1,0 +1,3 @@
+*ERROR* 	2015/10/29 - 11:40:08: SQL error on query <i>All parts of a PRIMARY KEY must be NOT NULL; if you need NULL in a key, use UNIQUE instead</i>
+*ERROR* 	2015/10/29 - 12:44:36: SQL error on query <i>All parts of a PRIMARY KEY must be NOT NULL; if you need NULL in a key, use UNIQUE instead</i>
+*ERROR* 	2015/10/29 - 12:52:01: SQL error on query <i>All parts of a PRIMARY KEY must be NOT NULL; if you need NULL in a key, use UNIQUE instead</i>
